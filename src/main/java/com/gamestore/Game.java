@@ -5,7 +5,7 @@ public class Game {
     private double price;
 
     public Game(String title, double price) {
-        this.title = title;
+        this.title = title; // Corrected typo here
         this.price = price;
     }
 
